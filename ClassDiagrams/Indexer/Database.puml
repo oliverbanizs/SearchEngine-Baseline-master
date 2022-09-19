@@ -1,0 +1,12 @@
+@startuml
+class Database {
+    - _connection : SqliteConnection
+    + Database()
+    - Execute(sql:string) : void
+    <<internal>> InsertAllWords(res:Dictionary<string, int>) : void
+    <<internal>> InsertAllOcc(docId:int, wordIds:ISet<int>) : void
+    + InsertWord(id:int, word:string) : void
+    + InsertDocument(id:int, url:string) : void
+    + GetAllWords() : Dictionary<string, int>
+}
+@enduml

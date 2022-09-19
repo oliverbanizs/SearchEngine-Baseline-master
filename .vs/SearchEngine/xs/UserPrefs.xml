@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7F4ADC70-20AE-423B-9D46-FABEE2E9F5D2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Indexer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SearchEngine" expanded="True">
+            <Node name="Common" expanded="True" />
+            <Node name="ConsoleSearch" expanded="True" />
+            <Node name="Indexer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

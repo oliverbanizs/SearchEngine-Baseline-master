@@ -1,0 +1,7 @@
+@startuml
+class Config <<static>> {
+    + {static} DatabasePath : string <<get>> = "/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/database.db"
+    + {static} DataSourcePath : string <<get>> = "/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/maildir"
+    + {static} NumberOfFoldersToIndex : int <<get>> = 1
+}
+@enduml

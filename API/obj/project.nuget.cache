@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "zF+FMBQKSd5/qh9X66AOrmML5zOb7D1N/8w3fSvnG3GguYTmGlzV4w/QVyiYdX7nWYkyrerLxToEOm7Xul5DaA==",
+  "success": true,
+  "projectFilePath": "/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/kendeszabo/.nuget/packages/microsoft.data.sqlite/6.0.2/microsoft.data.sqlite.6.0.2.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/microsoft.data.sqlite.core/6.0.2/microsoft.data.sqlite.core.6.0.2.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.6/sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/sqlitepclraw.core/2.0.7/sqlitepclraw.core.2.0.7.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.6/sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.6/sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/kendeszabo/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

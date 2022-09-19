@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oH6lHOzDanJDU3bS4ii7+JIid+tYtsnun3xe0b2/9qXLZcSzIdQLbZ+nw0mAQICrnf6foNYn8wd+7uxqjB04lw==",
+  "success": true,
+  "projectFilePath": "/Users/oliverbanizs/Downloads/SearchEngine-Baseline-master/ConsoleSearch/ConsoleSearch.csproj",
+  "expectedPackageFiles": [
+    "/Users/oliverbanizs/.nuget/packages/microsoft.data.sqlite/6.0.2/microsoft.data.sqlite.6.0.2.nupkg.sha512",
+    "/Users/oliverbanizs/.nuget/packages/microsoft.data.sqlite.core/6.0.2/microsoft.data.sqlite.core.6.0.2.nupkg.sha512",
+    "/Users/oliverbanizs/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.6/sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/oliverbanizs/.nuget/packages/sqlitepclraw.core/2.0.7/sqlitepclraw.core.2.0.7.nupkg.sha512",
+    "/Users/oliverbanizs/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.6/sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/oliverbanizs/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.6/sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/oliverbanizs/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

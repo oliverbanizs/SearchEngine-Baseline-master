@@ -1,0 +1,12 @@
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/bin/Debug/net5.0/Common.deps.json
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/bin/Debug/net5.0/Common.dll
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/bin/Debug/net5.0/Common.pdb
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/obj/Debug/net5.0/Common.csproj.AssemblyReference.cache
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/obj/Debug/net5.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/obj/Debug/net5.0/Common.AssemblyInfoInputs.cache
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/obj/Debug/net5.0/Common.AssemblyInfo.cs
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/obj/Debug/net5.0/Common.csproj.CoreCompileInputs.cache
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/obj/Debug/net5.0/Common.dll
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/obj/Debug/net5.0/refint/Common.dll
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/obj/Debug/net5.0/Common.pdb
+/Volumes/T7/VisualStudioProjects/SearchEngine-Baseline/Common/obj/Debug/net5.0/ref/Common.dll

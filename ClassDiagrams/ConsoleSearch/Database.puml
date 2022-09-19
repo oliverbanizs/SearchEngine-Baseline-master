@@ -1,0 +1,11 @@
+@startuml
+class Database {
+    - _connection : SqliteConnection
+    + Database()
+    - Execute(sql:string) : void
+    + GetDocuments(wordIds:List<int>) : List<KeyValuePair<int, int>>
+    - AsString(x:List<int>) : string
+    + GetAllWords() : Dictionary<string, int>
+    + GetDocDetails(docIds:List<int>) : List<string>
+}
+@enduml

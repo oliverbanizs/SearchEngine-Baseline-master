@@ -1,0 +1,10 @@
+@startuml
+class SearchLogic {
+    mDatabase : Database
+    mWords : Dictionary<string, int>
+    + SearchLogic(database:Database)
+    + GetIdOf(word:string) : int
+    + GetDocuments(wordIds:List<int>) : List<KeyValuePair<int, int>>
+    + GetDocumentDetails(docIds:List<int>) : List<string>
+}
+@enduml

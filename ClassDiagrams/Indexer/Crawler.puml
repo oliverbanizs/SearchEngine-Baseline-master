@@ -1,0 +1,12 @@
+@startuml
+class Crawler {
+    - <<readonly>> sep : char[]
+    - words : Dictionary<string, int>
+    - documents : Dictionary<string, int>
+    mdatabase : Database
+    + Crawler(db:Database)
+    - ExtractWordsInFile(f:FileInfo) : ISet<string>
+    - GetWordIdFromWords(src:ISet<string>) : ISet<int>
+    + IndexFilesIn(dir:DirectoryInfo, extensions:List<string>) : void
+}
+@enduml

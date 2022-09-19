@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>Google Search Engine 🔍 v2 </h1>
+<form method="post" class="card p-3">
+    <div class="row">
+        <div asp-validation-summary="All"></div>
+    </div>
+    <div class="form-group mb-0 align-middle">
+        <label asp-for="Input">Enter Search Term</label>
+        <input type="text" asp-for="Input" class="mr-5">
+        <button class="btn btn-primary">Search</button>
+    </div>
+</form>
+<table class="table mt-5">
+    <thead>
+        <tr>
+            <th scope="col">Results</th>
+        </tr>
+    </thead>
+
+    <tr>
+        <td>@Model.results</td>
+
+    </tr>
+
+</table>

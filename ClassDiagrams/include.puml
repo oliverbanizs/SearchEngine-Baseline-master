@@ -1,0 +1,19 @@
+@startuml
+!include ./Common/Config.puml
+!include ./ConsoleSearch/App.puml
+!include ./ConsoleSearch/Database.puml
+!include ./ConsoleSearch/Program.puml
+!include ./ConsoleSearch/SearchLogic.puml
+!include ./Indexer/App.puml
+!include ./Indexer/Crawler.puml
+!include ./Indexer/Database.puml
+!include ./Indexer/Program.puml
+!include ./Indexer/Renamer.puml
+!include ./Common/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.puml
+!include ./Common/obj/Debug/net5.0/Common.AssemblyInfo.puml
+!include ./Common/obj/Debug/net5.0/Common.GlobalUsings.g.puml
+!include ./ConsoleSearch/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.puml
+!include ./ConsoleSearch/obj/Debug/net5.0/ConsoleSearch.AssemblyInfo.puml
+!include ./Indexer/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.puml
+!include ./Indexer/obj/Debug/net5.0/Indexer.AssemblyInfo.puml
+@enduml

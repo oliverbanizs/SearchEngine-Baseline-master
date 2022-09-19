@@ -1,0 +1,8 @@
+@startuml
+class Renamer {
+    + Renamer()
+    + Run() : void
+    RenameFile(f:FileInfo) : void
+    + Crawl(dir:DirectoryInfo) : void
+}
+@enduml

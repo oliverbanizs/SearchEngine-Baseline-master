@@ -1,0 +1,23 @@
+version: '3.4'
+
+services: 
+
+  frontend:
+    image: searchfrontend
+    build:
+      context: SearchEngineWebUI
+      dockerfile: Dockerfile
+    environment: 
+      - backendUrl=http://backend
+    ports:
+      - "5902:80"
+    depends_on: 
+      - backend
+  backend:
+    image: searchbackend
+    build: 
+      context: API
+      dockerfile: Dockerfile
+    ports: 
+      - "5000:80"
+  
